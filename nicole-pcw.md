@@ -8,7 +8,7 @@
 + The roll-a-ball tutorial went pretty okay, except struggling to find where everything was in the Unity editor etc. But I guess that that's just part of the learning curve. Attached is a video of me playing the resulting game: 
 
 # Video of my roll-a-ball app: 
-https://drive.google.com/uc?export=view&id=1ebPqRH-SrfhXobzlpW_uKF9cuELDHWVO">
+https://drive.google.com/open?id=1ebPqRH-SrfhXobzlpW_uKF9cuELDHWVO
 
 # Results from Basic Guide Tutorial:
 
