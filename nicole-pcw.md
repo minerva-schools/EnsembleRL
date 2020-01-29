@@ -55,8 +55,8 @@ INFO:mlagents.trainers: firstRun: 3DBall: Step: 43000. Time Elapsed: 801.294 s M
 INFO:mlagents.trainers: firstRun: 3DBall: Step: 44000. Time Elapsed: 830.995 s Mean Reward: 100.000. Std of Reward: 0.000. Training.
 
 What I modified after training the model, to use my newly trained model:
-![alt text](https://drive.google.com/uc?id=1bNJQlUXwyEEqqTit9pPDqc_OgLdtGIMg&export=download)
+![alt text](https://drive.google.com/uc?id=1bNJQlUXwyEEqqTit9pPDqc_OgLdtGIMg&export=view)
 
 Screenshot of my balanced(unlike me) agents:
 
-![alt text](https://drive.google.com/uc?id=1Bai75-vH3OnU6IDtxd-Zx9FKrRQkV0n3&export=download)
+![alt text](https://drive.google.com/uc?id=1Bai75-vH3OnU6IDtxd-Zx9FKrRQkV0n3&export=view)
