@@ -1,4 +1,2 @@
-# Reinforcement-Learning-tutorial
-Hey! Blank readmes are no fun.
+# Ensemble Learning Project
 
-Let's set up some folder structure for the two groups and start pushing projects
