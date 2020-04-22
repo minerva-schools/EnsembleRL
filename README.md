@@ -10,10 +10,10 @@ Briefly, ensemble learning is a method of combining multiple learning models to 
 ### Understanding the Code 
 This repo includes four main jupyter notebooks:
 
-1. A [Deep SARSA](https://github.com/minerva-schools/EnsembleRL/SARSA.ipynb) implementation.
-2. A [Q-learning](https://github.com/minerva-schools/EnsembleRL/Q-LEARNING.ipynb) implementation.
-3. A [Deep REINFORCE](https://github.com/minerva-schools/EnsembleRL/REINFORCE.ipynb) implementation. See the trained agent [here](https://github.com/minerva-schools/EnsembleRL/model.h5).
-4. An [Ensemble learning](https://github.com/minerva-schools/EnsembleRL/Ensemble_RL.ipynb) implementation using the three agents above.
+1. A [Deep SARSA](https://github.com/minerva-schools/EnsembleRL/blob/master/SARSA.ipynb) implementation.
+2. A [Q-learning](https://github.com/minerva-schools/EnsembleRL/blob/master/Q-LEARNING.ipynb) implementation.
+3. A [Deep REINFORCE](https://github.com/minerva-schools/EnsembleRL/blob/master/REINFORCE.ipynb) implementation. See the trained agent [here](https://github.com/minerva-schools/EnsembleRL/blob/master/model.h5).
+4. An [Ensemble learning](https://github.com/minerva-schools/EnsembleRL/blob/master/Ensemble_RL.ipynb) implementation using the three agents above.
 
 ### Tutorials 
 A series of tutorials, explaining this code is available on medium.
