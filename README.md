@@ -22,7 +22,7 @@ A series of tutorials, explaining this code is available on medium.
 1. A tutorial on [Deep SARSA](tbd).
 2. A tutorial on [Q-learning](tbd).
 3. A tutorial on [Deep REINFORCE](https://medium.com/@gili.karni/policy-gradient-reinforcement-learning-with-keras-57ca6ed32555?sk=453cf920e6c8fe256a91360d728d7ebd).
-4. A tutorial on [Ensemble learning](tbd).
+4. A tutorial on [Ensemble learning](https://medium.com/@tu_53768/ensemble-reinforcement-learning-b06e28eec31c).
 
 ### Prerequisites
 To run the above code, make sure to install -
