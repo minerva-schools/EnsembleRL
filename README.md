@@ -19,8 +19,8 @@ This repo includes four main jupyter notebooks:
 A series of tutorials, explaining this code is available on medium.
 
 0. An [introductory](https://medium.com/@gelana/1d9c887a4fb1) tutorial. 
-1. A tutorial on [Deep SARSA](tbd).
-2. A tutorial on [Q-learning](tbd).
+1. A tutorial on [Deep SARSA](https://medium.com/@gelana/learning-with-deep-sarsa-openai-gym-c9a470d027a).
+2. A tutorial on [Q-learning](https://medium.com/@flomay/using-q-learning-to-solve-the-cartpole-balancing-problem-c0a7f47d3f9d).
 3. A tutorial on [Deep REINFORCE](https://medium.com/@gili.karni/policy-gradient-reinforcement-learning-with-keras-57ca6ed32555?sk=453cf920e6c8fe256a91360d728d7ebd).
 4. A tutorial on [Ensemble learning](https://medium.com/@tu_53768/ensemble-reinforcement-learning-b06e28eec31c).
 
